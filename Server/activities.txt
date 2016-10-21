@@ -1,0 +1,5 @@
+1,situps
+2,jumpingjacks
+3,running
+4,Pushups
+5,lunges
